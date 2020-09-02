@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignore mac DS_Store Files
+.DS_Store
